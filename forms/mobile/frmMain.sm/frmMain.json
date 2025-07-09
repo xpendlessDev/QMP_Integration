@@ -1,0 +1,20 @@
+{
+  "id": "frmMain",
+  "type": "kony.ui.Form2",
+  "title": "Web Viewer",
+  "skin": "slForm",
+  "needAppMenu": false,
+  "enabledForIdleTimeout": false,
+  "addWidgets": "addWidgetsfrmMain",
+  "layoutType": kony.flex.FREE_FORM,
+  "displayOrientation": constants.FORM_DISPLAY_ORIENTATION_PORTRAIT,
+  "padding": [0,0,0,0],
+  "paddingInPixel": false,
+  "init": "AS_Form_frmMain_init_ide_init"
+}
+
+function addWidgetsfrmMain() {
+    this.add(
+        txtURL, btnLoadURL, browserMain
+    );
+}

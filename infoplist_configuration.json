@@ -1,0 +1,8 @@
+{
+  "NSAppTransportSecurity": {
+    "NSAllowsArbitraryLoads": true
+  },
+  "NSCameraUsageDescription": "This app needs access to your camera to display video content within the web view.",
+  "NSMicrophoneUsageDescription": "This app needs access to your microphone to play audio from video content within the web view.",
+  "NSLocationWhenInUseUsageDescription": "This app needs access to your location to provide location-based services within the web view."
+}

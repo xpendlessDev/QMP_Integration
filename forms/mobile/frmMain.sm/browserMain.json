@@ -1,0 +1,55 @@
+{
+  "@class": "com.kony.gen.viz.model.component.KVizBrowser",
+  "DNDConfig": null,
+  "_height_": {
+    "type": "string",
+    "value": "100%"
+  },
+  "_left_": {
+    "type": "string",
+    "value": "0dp"
+  },
+  "_margin_": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "_padding_": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "_top_": {
+    "type": "string",
+    "value": "0dp"
+  },
+  "_width_": {
+    "type": "string",
+    "value": "100%"
+  },
+  "canUpdateUI": true,
+  "containerweight": 100,
+  "detecttelnumber": true,
+  "htmlstring": "",
+  "id": "browserMain",
+  "info": null,
+  "iscustomlayout": false,
+  "isvisible": false,
+  "kuid": "b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5",
+  "localurl": "",
+  "name": "kony.ui.Browser",
+  "parent": "frmMain",
+  "pf": "frmMain",
+  "requesturlconfig": {
+    "URL": "",
+    "requestMethod": "get"
+  },
+  "retaincontentalignment": false,
+  "retainflexpositionproperties": false,
+  "screenlevelwidget": false,
+  "url": "",
+  "wType": "Browser",
+  "zindex": 2
+}

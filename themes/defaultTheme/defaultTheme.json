@@ -1,0 +1,41 @@
+{
+  "skins": {
+    "slForm": {
+      "type": "kony.ui.Skin",
+      "background_color": "ffffff00",
+      "font_size": 90,
+      "font_color": "333333ff",
+      "font_name": "Helvetica"
+    },
+    "slTextBox": {
+      "type": "kony.ui.Skin",
+      "background_color": "ffffffff",
+      "border_color": "e1e5edff",
+      "border_style": "plain",
+      "border_width": 1,
+      "font_size": 100,
+      "font_color": "333333ff",
+      "font_name": "Helvetica"
+    },
+    "defTextBoxPlaceholder": {
+       "type": "kony.ui.Skin",
+       "font_color": "a0a0a0ff",
+       "font_name":"Helvetica",
+       "font_size":100
+    },
+    "slButtonGlossBlue": {
+      "type": "kony.ui.Skin",
+      "background_color": "4b88f1ff",
+      "border_color": "4b88f1ff",
+      "border_style": "plain",
+      "border_width": 1,
+      "font_size": 120,
+      "font_color": "ffffffff",
+      "font_name": "Helvetica-Bold",
+      "forked": false
+    }
+  },
+  "wTypeTheme": "Default",
+  "kuid": "s9e7e0a03f0a4e5ab8f7078b8f40e6c7",
+  "themeName": "defaultTheme"
+}
